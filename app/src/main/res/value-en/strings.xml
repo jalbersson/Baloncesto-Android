@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Basketball</string>
+    <string name="nombreEquipo">Name of the team:</string>
+    <string name="ciudad">City:</string>
+    <string name="nroJugadores">Number of Players:</string>
+    <string name="marcador">Score</string>
+    <string name="hint">Answer</string>
+    <string name="textoMarcador">0</string>
+    <string name="subir2">+2 points</string>
+    <string name="subir3">+3 points</string>
+    <string name="bajar2">-2 points</string>
+    <string name="bajar3">-3 points</string>
+</resources>

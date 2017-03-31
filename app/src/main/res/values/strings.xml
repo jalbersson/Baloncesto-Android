@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baloncesto</string>
+    <string name="nombreEquipo">Nombre del equipo:</string>
+    <string name="ciudad">Ciudad:</string>
+    <string name="nroJugadores">Número de jugadores:</string>
+    <string name="marcador">Marcador</string>
+    <string name="hint">respuesta</string>
+    <string name="textoMarcador">0</string>
+    <string name="subir2">+2 puntos</string>
+    <string name="subir3">+3 puntos</string>
+    <string name="bajar2">-2 puntos</string>
+    <string name="bajar3">-3 puntos</string>
+</resources>
